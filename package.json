@@ -1,5 +1,5 @@
 {
-  "type": "module",
+  
   "name": "html5-slot-machine",
   "description": "Modern casino slot machine game using only plain JavaScript (Web Animations API)",
   "version": "1.1.0",
